@@ -20,6 +20,6 @@ function deepestChild() {
   var test;
   /*lis.length - 1 bc no div in the last node*/
   for (let i = 0; i < lis.length - 1; i++) {
-    
+    test = lis[i].
   }
 }
